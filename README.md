@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Danny, I'm a web developer, with extensive knowledge of the Angular framework.<br>I like the web design, the 3D effects, among other things.<br>I always like to innovate and learn.
+Hi, my name is Danny, I'm a Full Stack web developer, with extensive knowledge of the Angular framework.<br>I like the web design, the 3D effects, among other things.<br>I always like to innovate and learn.
 
 
 ## 🌐 Socials:
